@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Time from 'react-time'
-import de from 'moment/locale/de'; // Wichtig da sonst keine lokale Zeit!
+import 'moment/locale/de'; // Wichtig da sonst keine lokale Zeit!
 
 class SensorData extends Component {
 

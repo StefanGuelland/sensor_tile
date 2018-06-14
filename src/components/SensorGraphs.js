@@ -5,9 +5,6 @@ import moment from 'moment';
 import SensorGraph from './SensorGraph'
 
 class SensorGraphs extends Component {
-    constructor(props, context){
-        super(props, context);
-    }
 
     render() {
 

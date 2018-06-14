@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 
 class GraphMarker extends Component {
-    constructor(props, context){
-        super(props, context);
-    }
 
     render() {
         const {minX, maxX, layerHeight, layerWidth, value} = this.props;

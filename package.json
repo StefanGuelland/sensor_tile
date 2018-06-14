@@ -9,7 +9,8 @@
     "react-dom": "^16.4.0",
     "react-mdc-web": "^0.17.0",
     "react-scripts": "1.1.4",
-    "react-time": "^4.3.0"
+    "react-time": "^4.3.0",
+    "rumble-charts": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
